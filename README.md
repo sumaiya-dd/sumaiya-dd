@@ -1,6 +1,6 @@
 ### Hi there 👋, I 'm Sumaya Sharmin
 #### A passionate web developer from Bangladesh
-👩‍💻 Hey, I’m Sumaya! ✨ Passionate about modern web design 🛠️ HTML | CSS | JavaScript | Tailwind | Bootstrap 🔗 Check out my latest projects below!
+
 
 
 Skills:  HTML / CSS / js / BOOTSTRAP / TAILWIND CSS
