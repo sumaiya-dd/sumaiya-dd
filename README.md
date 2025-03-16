@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sumaya Sharmin</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+### Hi there 👋, I 'm Sumaya Sharmin
+#### A passionate web developer from Bangladesh
+👩‍💻 Hey, I’m Sumaya! ✨ Passionate about modern web design 🛠️ HTML | CSS | JavaScript | Tailwind | Bootstrap 🔗 Check out my latest projects below!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya-dd&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-dd" /> </p>
 
-- 🔭 I’m currently working on **HER POWER PROJECT**
+Skills:  HTML / CSS / js / BOOTSTRAP / TAILWIND CSS
 
-- 🌱 I’m currently learning **JS**
+- 🔭 I’m currently working on Her Power Project 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on JS 
+- 💬 Ask me about HTML,CSS,JS ,TAILWIND CSS AND  BOOTSTRAP 
+- 📫 How to reach me: sumaiyasharmin3558@gmail.com 
 
-- 👯 I’m looking to collaborate on **JavaScript**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,TAILWIND CSS,JS**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumaiya-dd)  
 
-- 📫 How to reach me **sumaiyasharmin3558@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumaiya-dd)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📄 Know about my experiences [https://github.com/sumaiya-dd](https://github.com/sumaiya-dd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-dd)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumaiya-dd&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sumaiya-dd)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaiya-dd&show_icons=true&locale=en&layout=compact" alt="sumaiya-dd" /></p>
